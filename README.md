@@ -1,13 +1,30 @@
 # 👩‍💻 Nguyễn Bá Hoàng - Angry HoàngX
+### Hi there 👋
+🔭 🇻🇳 **Nguyễn Bá Hoàng** — Solo Game Developer | 📍 Đà Nẵng
 
-<div align="center">
+🌱 ► **What I do**: Build indie games & small apps using **Unity (C#)**  
+🤔 ► **What I love**: Game design, narrative systems, Vietnamese history, chill music 🎧  
+⚡ ► **What I seek**: Job opportunities / collaborations in game dev — remote or onsite  
+😄 ► **Big vision**: Pioneer Vietnam's first **AAA game rooted in our history** 🏯✨  
+
+📩 Contact: [bahoangcran@gmail.com](mailto:bahoangcran@gmail.com)  
+🔗 Portfolio: [github.com/anhhackta](https://github.com/anhhackta)  
+
+💬 *Thought of the day:* "Are we living 365 days… or 1 day × 365?"
+##<div align="center">
   <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman animation" />
 </div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anhhackta.official) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoangx.it) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@zon.vn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LagAnime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](http://youtube.com/c/@AnhHackT%E1%BA%A1?sub_confirmation=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bahoangcran@gmail.com) 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)  ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat&logo=Itch.io&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine)
+<img src="https://github-readme-stats.vercel.app/api?username=anhhackta&count_private=true&show_icons=true&theme=dark" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhhackta&theme=dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anhhackta&theme=dark" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anhhackta&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anhhackta&theme=dark&utcOffset=8)
+</br>
+#### My Skills :
+![My Skills](https://skillicons.dev/icons?i=cs,github,gmail,html,md,unity,visualstudio,vscode,windows,arch,figma,supabase)
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=anhhackta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anhhackta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
